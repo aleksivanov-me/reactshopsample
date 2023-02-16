@@ -1,0 +1,11 @@
+const filterData = [
+	//{ id: '0', picture: '/img/1751.png', name: 'WW90T754ABT, Pralka QuickDrive™, 9 kg, biała', size: '50 x 60 x 85 cm', price: '4199', currency: 'zl', eclass: 'A', capacity: '9', tags: ['Drzwi AddWash™', 'Panel AI Control', 'Silnik inwerterowy'] },
+	{ id: '0', picture: 'https://www.pngarts.com/files/3/Washing-Machine-PNG-Picture.png', name: 'WW90T754ABT, Pralka QuickDrive™, 9 kg, biała', size: '50 x 60 x 85 cm', price: '4199', currency: 'zl', eclass: 'A', capacity: '9', tags: ['Drzwi AddWash™', 'Panel AI Control', 'Silnik inwerterowy'] },
+	{ id: '1', picture: 'https://www.pngarts.com/files/3/Washing-Machine-PNG-Picture.png', name: 'WW10T654DLH, Pralka EcoBubble™, 10,5 kg, biała', size: '50 x 60 x 85 cm', price: '3199', currency: 'zl', eclass: 'B', capacity: '10.5', tags: ['Drzwi AddWash™', 'Panel AI Control', 'Silnik inwerterowy'] },
+	{ id: '2', picture: 'https://www.pngarts.com/files/3/Washing-Machine-PNG-Picture.png', name: 'WW90T654DLH, Pralka EcoBubble™, 9 kg, biała', size: '50 x 60 x 85 cm', price: '2199', currency: 'zl', eclass: 'C', capacity: '8', tags: ['Drzwi AddWash™', 'Panel AI Control', 'Silnik inwerterowy'] },
+	{ id: '3', picture: 'https://www.pngarts.com/files/3/Washing-Machine-PNG-Picture.png', name: 'WW90T754ABT, Pralka QuickDrive™, 9 kg, biała', size: '50 x 60 x 85 cm', price: '5199', currency: 'zl', eclass: 'D', capacity: '9', tags: ['Drzwi AddWash™', 'Panel AI Control', 'Silnik inwerterowy'] },
+	{ id: '4', picture: 'https://www.pngarts.com/files/3/Washing-Machine-PNG-Picture.png', name: 'WW10T654DLH, Pralka EcoBubble™, 10,5 kg, biała', size: '50 x 60 x 85 cm', price: '5199', currency: 'zl', eclass: 'E', capacity: '10.5', tags: ['Drzwi AddWash™', 'Panel AI Control', 'Silnik inwerterowy', 'Wyświetlacz elektroniczny'] },
+	{ id: '5', picture: 'https://www.pngarts.com/files/3/Washing-Machine-PNG-Picture.png', name: 'WW90T654DLH, Pralka EcoBubble™, 8 kg, biała', size: '50 x 60 x 85 cm', price: '5199', currency: 'zl', eclass: 'F', capacity: '8', tags: ['Drzwi AddWash™', 'Panel AI Control', 'Silnik inwerterowy', 'Wyświetlacz elektroniczny'] },
+]
+
+export default filterData
